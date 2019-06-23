@@ -393,6 +393,7 @@ justify-content: space-between;
 		border:black solid 1px;
 		width:98%;
 		margin:10px 0;
+    background: lightgray;
 	}
 }
 	.services-bottom-content{
